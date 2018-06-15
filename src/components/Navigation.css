@@ -1,0 +1,34 @@
+.navMainCntr {
+    width:100%;
+    background-color:#CCC;
+    padding: 5px;
+}
+
+.navCntr {
+    margin:0 auto;
+    width:90%;
+    vertical-align: top;
+}
+
+.navCntr ul {
+    list-style: none;
+    margin: 0;
+}
+
+.navCntr ul li {
+    background-color: #F2F2F2;
+    float: left;
+    padding: 10px;
+    margin-right: 10px;
+    border-radius: 5px;
+}
+
+.navCntr ul li a {
+    color:#484848;
+    text-decoration: none;
+    font-size: 14px;
+}
+
+.clearb {
+    clear: both;
+}
